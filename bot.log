@@ -1,0 +1,15 @@
+12.05.2020 15:55 - bot - INFO - Artist "Пугачева" found, user – Xalion
+
+12.05.2020 15:55 - bot - INFO - Artist "парапрпар" not found, user – Xalion
+
+12.05.2020 15:55 - bot - INFO - Track "Этот мир" found, user – Xalion
+
+12.05.2020 15:55 - bot - INFO - Track preview was sent
+12.05.2020 15:55 - bot - INFO - Track "jhkglkjhg" not found, user – Xalion
+
+12.05.2020 15:55 - bot - INFO - Artist "drake" found, user – qcqc_meow
+
+12.05.2020 15:55 - bot - INFO - Track "God's plane" found, user – qcqc_meow
+
+12.05.2020 15:57 - TeleBot - ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 504 Gateway Time-out. Response body:
+[b'{"ok":false,"error_code":504,"description":"Gateway Timeout"}']

@@ -21,7 +21,7 @@ def data(request):
 
 
 def execute(request):
-    connection = sqlite3.connect('lastfm.db')
+    connection = sqlite3.connect('spotify.db')
     cursor = connection.cursor()
 
     data_request = data(request)
