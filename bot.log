@@ -13,3 +13,115 @@
 
 12.05.2020 15:57 - TeleBot - ERROR - A request to the Telegram API was unsuccessful. The server returned HTTP 504 Gateway Time-out. Response body:
 [b'{"ok":false,"error_code":504,"description":"Gateway Timeout"}']
+16.05.2020 14:48 - bot - INFO - Track "ggggg" found, user – Xalion
+
+16.05.2020 14:48 - bot - INFO - Track "fghfg" not found, user – Xalion
+
+16.05.2020 14:50 - bot - INFO - Track "dghyfdgh" not found, user – Xalion
+
+16.05.2020 14:50 - bot - INFO - Artist "vffghfg" not found, user – Xalion
+
+16.05.2020 15:00 - bot - INFO - Artist "Татьяна Буланова" found, user – Xalion
+
+16.05.2020 15:00 - bot - INFO - Track "Не плачь" found, user – Xalion
+
+16.05.2020 15:01 - bot - INFO - Track "Не плачь, татьяна буланова" found, user – Xalion
+
+16.05.2020 15:01 - bot - INFO - Track "белый снег, серыйлед" not found, user – Xalion
+
+16.05.2020 15:01 - bot - INFO - Track "белый снег, серый лед" found, user – Xalion
+
+16.05.2020 15:02 - bot - INFO - Track "ты встречаешь рассвет за игрой в дурака" not found, user – Xalion
+
+16.05.2020 15:03 - bot - INFO - Track "белый лебедь на пруду" not found, user – Xalion
+
+16.05.2020 15:03 - bot - INFO - Track "качает павшую звезду" not found, user – Xalion
+
+16.05.2020 15:04 - bot - INFO - Track "белый лебедь" found, user – Xalion
+
+16.05.2020 15:04 - bot - INFO - Track preview was sent
+
+16.05.2020 15:04 - bot - INFO - Track "Белый лебедь" found, user – Xalion
+
+16.05.2020 15:04 - bot - INFO - Artist "Лесоповал" found, user – Xalion
+
+16.05.2020 15:05 - bot - INFO - Track "белый лебедь лесоповал" not found, user – Xalion
+
+16.05.2020 15:05 - bot - INFO - Track "лесоповал белый лебедь" not found, user – Xalion
+
+16.05.2020 15:06 - bot - INFO - Track "я куплю тебе дом" found, user – Xalion
+
+16.05.2020 15:06 - bot - INFO - Track preview was sent
+
+16.05.2020 15:07 - bot - INFO - Track "Поиск трека" not found, user – Xalion
+
+16.05.2020 15:07 - bot - INFO - Artist "deake" found, user – qcqc_meow
+
+16.05.2020 15:08 - bot - INFO - Artist "jordia" found, user – qcqc_meow
+
+16.05.2020 15:08 - bot - INFO - Artist "sir" found, user – qcqc_meow
+
+16.05.2020 15:08 - bot - INFO - Track "john reccon" found, user – qcqc_meow
+
+16.05.2020 15:08 - bot - INFO - Track preview was sent
+
+16.05.2020 15:08 - bot - INFO - Artist "Поиск трека" not found, user – PifagoRChik
+
+16.05.2020 15:08 - bot - INFO - Track "Супермен" found, user – PifagoRChik
+
+16.05.2020 15:09 - bot - INFO - Track preview was sent
+
+16.05.2020 15:43 - bot - INFO - Artist "fgfggh" not found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Artist "кино" found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Artist "Буланова" found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Artist "Пугачева" found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Track "Звезда" found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Track "Я кууплю тебе дом" found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Track "Этот мир" found, user – Xalion
+
+16.05.2020 15:43 - bot - INFO - Track "Шаман" found, user – Xalion
+
+16.05.2020 15:44 - bot - INFO - Track "У шамана три руки" found, user – Xalion
+
+16.05.2020 15:46 - bot - INFO - Artist "кино" found, user – Xalion
+
+16.05.2020 15:46 - bot - INFO - Artist "буланова" found, user – Xalion
+
+16.05.2020 15:46 - bot - INFO - Artist "лесоповал" found, user – Xalion
+
+16.05.2020 15:46 - bot - INFO - Track "звезда" found, user – Xalion
+
+16.05.2020 15:46 - bot - INFO - Track "у шамана три руки" found, user – Xalion
+
+16.05.2020 15:46 - bot - INFO - Track "этот мир" found, user – Xalion
+
+16.05.2020 16:27 - bot - INFO - Artist "кино" found, user – Xalion
+
+16.05.2020 16:27 - bot - INFO - Artist "буланова" found, user – Xalion
+
+16.05.2020 16:27 - bot - INFO - Track "этот мир" found, user – Xalion
+
+16.05.2020 16:31 - bot - INFO - Artist "дрейк" found, user – Xalion
+
+16.05.2020 16:31 - bot - INFO - Artist "эменем" not found, user – Xalion
+
+16.05.2020 16:31 - bot - INFO - Artist "эминем" found, user – Xalion
+
+16.05.2020 16:31 - bot - INFO - Artist "асап роки" found, user – Xalion
+
+16.05.2020 16:32 - bot - INFO - Track "этот мир" found, user – Xalion
+
+16.05.2020 16:32 - bot - INFO - Track "три руки" found, user – Xalion
+
+16.05.2020 16:35 - bot - INFO - Artist "ю 2" found, user – qcqc_meow
+
+16.05.2020 16:35 - bot - INFO - Artist "somebody" found, user – qcqc_meow
+
+16.05.2020 16:36 - bot - INFO - Track "somebody to love" found, user – qcqc_meow
+
