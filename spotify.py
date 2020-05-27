@@ -44,7 +44,10 @@ class Artist:
     def __init__(self, artist_data):
         self.name = artist_data['artists']['items'][0]['name']
         self.link = artist_data['artists']['items'][0]['external_urls']['spotify']
-        self.pic = artist_data['artists']['items'][0]['images'][1]['url']
+        try:
+            self.pic = artist_data['artists']['items'][0]['images'][1]['url']
+        except:
+            self.pic = open('./default.png', 'rb')
         self.albums = None
         self.button = self.make_artist_url_button(self.link)
 
